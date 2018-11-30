@@ -91,17 +91,6 @@ body {
     color: #888;
 }
 
-body.is-preload *, body.is-preload *:before, body.is-preload *:after {
-    -moz-animation: none !important;
-    -webkit-animation: none !important;
-    -ms-animation: none !important;
-    animation: none !important;
-    -moz-transition: none !important;
-    -webkit-transition: none !important;
-    -ms-transition: none !important;
-    transition: none !important;
-}
-
 input, textarea, select {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 19pt;
@@ -142,18 +131,6 @@ h3 {
     font-size: 1.5em;
 }
 
-header {
-    margin: 0 0 2em 0;
-}
-
-header > p {
-    margin: 1em 0 0 0;
-}
-
-footer {
-    margin: 2em 0 0 0;
-}
-
 strong, b {
     font-weight: 300;
     color: #666;
@@ -179,18 +156,6 @@ a:hover {
     border-bottom-color: rgba(255, 255, 255, 0);
 }
 
-sub {
-    position: relative;
-    top: 0.5em;
-    font-size: 0.8em;
-}
-
-sup {
-    position: relative;
-    top: -0.5em;
-    font-size: 0.8em;
-}
-
 hr {
     border: 0;
     border-top: solid 1px #ddd;
@@ -202,10 +167,8 @@ blockquote {
     font-style: italic;
 }
 
-p, ul, ol, dl, table {
-    margin-bottom: 2em;
-}
-
-br.clear {
-    clear: both;
+ul.icons {
+    cursor: default;
+    list-style: none;
+    padding-left: 0;
 }
