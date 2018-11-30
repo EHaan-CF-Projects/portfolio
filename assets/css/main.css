@@ -1,5 +1,5 @@
-@import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+/* @import url("font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600"); */
 
 /*
 	Prologue by HTML5 UP
@@ -7,7 +7,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-html, body, div, span, applet, object,
+/* html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
@@ -23,29 +23,29 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;} */
 
-article, aside, details, figcaption, figure,
+/* article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;}
+	display: block;} */
 
-body {
+/* body {
 	line-height: 1;
-}
-
+} */
+/* 
 ol, ul {
 	list-style: none;
-}
-
+} */
+/* 
 blockquote, q {
 	quotes: none;
-}
+} */
 
-	blockquote:before, blockquote:after, q:before, q:after {
-		content: '';
-		content: none;
-	}
-
+/* blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+} */
+/* 
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -70,11 +70,11 @@ input, select, textarea {
 	-webkit-appearance: none;
 	-ms-appearance: none;
 	appearance: none;
-}
+} */
 
 /* Basic */
 
-	html {
+	/* html {
 		box-sizing: border-box;
 	}
 
@@ -208,10 +208,10 @@ input, select, textarea {
 
 	br.clear {
 		clear: both;
-	}
+	} */
 
 /* Container */
-
+/* 
 	.container {
 		margin: 0 auto;
 		max-width: 100%;
@@ -256,9 +256,9 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		}
+		} */
 
-/* Row */
+/* Row
 
 	.row {
 		display: flex;
@@ -1724,10 +1724,10 @@ input, select, textarea {
 							padding-top: 40px;
 						}
 
-		}
+		} */
 
 /* Sections/Article */
-
+/* 
 	section, article {
 		margin-bottom: 3em;
 	}
@@ -1740,7 +1740,7 @@ input, select, textarea {
 
 		.row > section, .row > article {
 			margin-bottom: 0;
-		}
+		} */
 
 /* Image */
 
