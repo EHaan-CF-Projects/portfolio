@@ -21,12 +21,21 @@ Estimate of time needed to complete: 2 Hours
 
 Start time: 11/30 2:45pm
 
-Finish time:
+Finish time: 12/1 3:00pm
 
-Actual time needed to complete: 
+Actual time needed to complete: 2 hours - gathering the content took the longest.
 
 /////////////////////////////////////////
 
+Number and name of feature: #3 functionality
+
+Estimate of time needed to complete: 3 Hours
+
+Start time: 12/1 3:30pm
+
+Finish time:
+
+Actual time needed to complete:
 
 ////////////////////////////////////////
 
