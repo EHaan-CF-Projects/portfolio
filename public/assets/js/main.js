@@ -120,4 +120,26 @@
       visibleClass: 'header-visible'
     });
 
+// JS & jQuery Carousel setup inspired by Skyler Burger.
+
+  let imgNum=1;
+
+  let carousel = () => {
+    $('#top').removeClass(`carousel-img${imgNum}`);
+    imgNum ++;
+    if (imgNum > 3) {
+      imgNum = 1;
+    }
+    $('#top').addClass(`carousel-img${imgNum}`);
+  }
+
+  let carouselConductor = () => {
+    carousel();
+    setTimeout( () => {
+      carouselConductor();
+    }, 5000);
+  }
+
+  carouselConductor();
+
 })(jQuery);
