@@ -206,7 +206,7 @@ margin-bottom: 0;
 }
 
 #nav ul li a.active span:before {
-    color: #e27689;
+    color: rgb(21, 156, 156);
 }
 
 /* Footer */
@@ -238,6 +238,7 @@ margin-bottom: 0;
 #main > section.dark {
     color: #ddd;
     color: rgba(255, 255, 255, 0.75);
+    color: rgb(21, 156, 156);
 }
 
 #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -245,8 +246,8 @@ margin-bottom: 0;
 }
 
 #main > section.dark strong {
-    color: #fff;
     border-color: inherit;
+    color: rgb(21, 156, 156);
 }
 
 #main > section.dark a {
@@ -269,19 +270,15 @@ margin-bottom: 0;
 }
 
 .carousel-img1 {
-    background-image: url("../../images/desk-carolina-bonito-321678-unsplash.jpg");
+    background-image: url("../../images/enrico-mantegazza-709450-unsplash.jpg") !important;
 }
 
-.carousel-img1 {
-    background-image: url("../../images/desk-carolina-bonito-321678-unsplash.jpg");
+.carousel-img2 {
+    background-image: url("../../images/debby-hudson-557741-unsplash.jpg") !important;
 }
 
-.carousel-img1 {
-    background-image: url("../../images/desk-carolina-bonito-321678-unsplash.jpg");
-}
-
-.carousel-img1 {
-    background-image: url("../../images/desk-carolina-bonito-321678-unsplash.jpg");
+.carousel-img3 {
+    background-image: url("../../images/scott-webb-427027-unsplash.jpg") !important;
 }
 
 #main > section.two {
